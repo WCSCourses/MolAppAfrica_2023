@@ -26,7 +26,7 @@ Any reuse of the course materials, data or code is encouraged with due acknowled
 - [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
 - [Brenda Kwambana-Adams](https://www.lstmed.ac.uk/about/people/brenda-kwambana-adams), Liverpool School of Tropical Medicine, Malawi
 - [Chisomo Msefula](https://orcid.org/0000-0003-2304-886X), Kamuzu University of Health Sciences, Malawi
-- [Elizabeth (Lizma) Streicher].(http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
+- [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
 - [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford
 
 ******
