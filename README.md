@@ -20,7 +20,7 @@ The week-long course will be held at, and in collaboration, with the [Kenya Medi
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
-##Training Team
+## Training Team
 
 - [Angeziwa Chunga](https://orcid.org/0000-0001-6500-2902), Kamuzu University of Health Sciences, Malawi
 - [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
