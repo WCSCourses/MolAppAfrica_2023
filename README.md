@@ -28,6 +28,12 @@ Any reuse of the course materials, data or code is encouraged with due acknowled
 - [Chisomo Msefula](https://orcid.org/0000-0003-2304-886X), Kamuzu University of Health Sciences, Malawi
 - [Elizabeth (Lizma) Streicher](http://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/default.aspx), Stellenbosch University, South Africa 
 - [Keith Jolley](https://www.biology.ox.ac.uk/people/dr-keith-jolley), University of Oxford
+- [Leonard Ndwiga](https://www.linkedin.com/in/lndwiga), KEMRI-Wellcome Trust Research Programme, Kenya
+- [Martin Maiden](https://www.biology.ox.ac.uk/people/professor-martin-maiden), University of Oxford
+- [Odile Harrison](https://www.ndph.ox.ac.uk/team/odile-harrison), Univeristy of Oxford
+- [Robert Onsare](https://www.kemri.go.ke/cmr-staff-profiles/#1635772764582-f76cb380-cf24), Kenya Medical Research Institute
+- [Sam Kariuki](http://www.kemri.go.ke/cmr-staff-profiles/#1635768168860-825b002f-afef), Kenya Medical Research Institute
+- [Susan Kavai](https://www.kemri.go.ke/cmr-staff-profiles/#1648026803339-009e565e-07a8), Kenya Medical Research Institute
 
 ******
 ## License
