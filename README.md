@@ -16,6 +16,16 @@ The course is aimed at those primarily trained in culture-based microbiology and
 
 The week-long course will be held at, and in collaboration, with the [Kenya Medical Research Institute (KEMRI)](https://www.kemri.go.ke/). The course is free to attend and open to applicants based in institutes in Africa.
 
+[Course Website](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/)
+
+Any reuse of the course materials, data or code is encouraged with due acknowledgement.
+
+##Training Team
+
+- [Angeziwa Chunga](https://orcid.org/0000-0001-6500-2902), Kamuzu University of Health Sciences, Malawi
+- [Anzaan Dippenaar](https://www.uantwerpen.be/en/staff/anzaan-dippenaar/), University of Antwerp, Belgium
+- [Brenda Kwambana-Adams](https://www.lstmed.ac.uk/about/people/brenda-kwambana-adams), Liverpool School of Tropical Medicine, Malawi
+
 ******
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
