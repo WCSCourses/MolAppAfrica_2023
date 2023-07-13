@@ -1,4 +1,9 @@
-# Molecular Approaches to Clinical Microbiology in Africa 
+ ![](assets/wellcome_connecting_sciences_logo.svg)
+
+<br>
+
+
+# Molecular Approaches to Clinical Microbiology in Africa
 
 
 ## Course overview
