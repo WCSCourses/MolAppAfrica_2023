@@ -1,4 +1,5 @@
-# MolAppAfrica_2023
+# Molecular Approaches to Clinical Microbiology in Africa 
+
 
 ## Course overview
 
