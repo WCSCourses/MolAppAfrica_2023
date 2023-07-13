@@ -1,6 +1,4 @@
- ![](assets/wellcome_connecting_sciences_logo.svg)
-
-<br>
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
 
 # Molecular Approaches to Clinical Microbiology in Africa
