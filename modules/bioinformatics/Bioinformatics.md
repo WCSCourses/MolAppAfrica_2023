@@ -294,12 +294,12 @@ The bootstrap values will be displayed on each branch of the tree.
 
 ![](images/mega23.png)
 
-# Practical 3: Whole genome sequence analyses using PubMLST
+## Practical 3: Whole genome sequence analyses using PubMLST
 PubMLST.org (https://pubmlst.org) is a free online web-based resource which uses the Bacterial Isolate Genome Sequence database (BIGSdb) genomics platform. In addition to extensive data libraries (>1,200,000 bacterial isolates and >1,000,000 genomes) PubMLST incorporates typing information and analytical tools for identifying and storing genetic variation on a gene-by-gene basis (1). PubMLST databases are available for many bacterial species, including *Neisseria meningitidis* within the PubMLST Neisseria database, which can be used to type bacteria enabling epidemiological and other investigations. 
 
 In this practical you will use PubMLST to analyse whole genome sequence (WGS) data from meningococci isolated in Africa. These data originate from 716 meningococci obtained 2011-2016 from 11 countries in the meningitis belt and were published in EBioMedicine in 2019 (2). 
 
-## Navigating PubMLST
+### Navigating PubMLST
 Open a new browser window and type: https://pubmlst.org/neisseria
 
 You will see that the home page is divided into 5 sections:
@@ -340,7 +340,7 @@ This should return 716 records with a small (customizable) dashboard summarizing
 
 ![](images/pubmlst6.png)
 
-## Analyzing returned datasets
+### Analyzing returned datasets
 At the bottom of any page of results you will find a number of buttons that will take you to a variety of analysis functions using the results of your query:
 
 ![](images/pubmlst7.png)
@@ -383,10 +383,10 @@ Use the 'Two field' query to answers the questions below:
 
 4.	What capsule group were ST-11 isolates?
 
-## Phylogenetic analyses
+### Phylogenetic analyses
 Additional analysis tools are available in PubMLST, which we will use to examine the dataset more closely.
 
-### Minimum Spanning trees using GrapeTree
+#### Minimum Spanning trees using GrapeTree
 Genomic relationships among isolates can be visualized using the tool GrapeTree (3). 
 
 Navigate back to your isolate list and click on ‘GrapeTree’ at the bottom of the results page:
@@ -427,7 +427,7 @@ Colour schemes can also be altered. Colour the nodes by year, then right click o
 
 4.	Based on this information what can you deduce about the ST-10217 clonal complex?
 
-### Genome Comparator
+#### Genome Comparator
 Genomes can also be compared using the Genome Comparator tool. This compares isolates using a gene-by-gene method, generates a NeighborNet tree and in addition provides information on the number and precise identification of locus differences among isolates. This tool works particularly well for more highly related isolates. We will use this to analyze ST-10217 isolates. 
 
 Navigate back to your isolate list and select isolates belonging to the ST-10217 clonal complex (note that there is a clonal complex dropdown box in the list of filters).
@@ -452,7 +452,7 @@ Explore these data to answer the following questions:
 
 3.	What about isolate 39809?
 
-## Bibliography
+### Bibliography
 1.	Jolley KA, Bray JE, Maiden MCJ. Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications. Wellcome Open Res. 2018;3:124.
 2.	Topaz N, Caugant DA, Taha MK, Brynildsrud OB, Debech N, Hong E, et al. Phylogenetic relationships and regional spread of meningococcal strains in the meningitis belt, 2011-2016. EBioMedicine. 2019;41:488-96.
 3.	Zhou Z, Alikhan NF, Sergeant MJ, Luhmann N, Vaz C, Francisco AP, et al. GrapeTree: Visualization of core genomic relationships among 100,000 bacterial pathogens. Genome Research. 2018:In Press.
