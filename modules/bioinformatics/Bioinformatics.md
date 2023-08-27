@@ -453,8 +453,8 @@ Explore these data to answer the following questions:
 3.	What about isolate 39809?
 
 ### Bibliography
-1.	Jolley KA, Bray JE, Maiden MCJ. Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications. Wellcome Open Res. 2018;3:124.
-2.	Topaz N, Caugant DA, Taha MK, Brynildsrud OB, Debech N, Hong E, et al. Phylogenetic relationships and regional spread of meningococcal strains in the meningitis belt, 2011-2016. EBioMedicine. 2019;41:488-96.
-3.	Zhou Z, Alikhan NF, Sergeant MJ, Luhmann N, Vaz C, Francisco AP, et al. GrapeTree: Visualization of core genomic relationships among 100,000 bacterial pathogens. Genome Research. 2018:In Press.
-4.	Bratcher HB, Corton C, Jolley KA, Parkhill J, Maiden MC. A gene-by-gene population genomics platform: de novo assembly, annotation and genealogical analysis of 108 representative Neisseria meningitidis genomes. BMC Genomics. 2014;15:1138.
+1.	Jolley KA, Bray JE, Maiden MCJ. Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications. [Wellcome Open Res. 2018;3:124](https://pubmed.ncbi.nlm.nih.gov/30345391/).
+2.	Topaz N, Caugant DA, Taha MK, Brynildsrud OB, Debech N, Hong E, et al. Phylogenetic relationships and regional spread of meningococcal strains in the meningitis belt, 2011-2016. [EBioMedicine. 2019;41:488-96](https://pubmed.ncbi.nlm.nih.gov/30846392/).
+3.	Zhou Z, Alikhan NF, Sergeant MJ, Luhmann N, Vaz C, Francisco AP, et al. GrapeTree: Visualization of core genomic relationships among 100,000 bacterial pathogens. [Genome Research. 2018;28:1395-1404](https://pubmed.ncbi.nlm.nih.gov/30049790/).
+4.	Bratcher HB, Corton C, Jolley KA, Parkhill J, Maiden MC. A gene-by-gene population genomics platform: de novo assembly, annotation and genealogical analysis of 108 representative Neisseria meningitidis genomes. [BMC Genomics. 2014;15:1138](https://pubmed.ncbi.nlm.nih.gov/25523208/).
 
