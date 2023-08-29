@@ -165,18 +165,18 @@ For these exercises we will be using the program MEGA (Molecular Evolutionary Ge
 
 ![](images/stop-sign.png)
 
-You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines - the data have already been installed on these, but you will need to copy them into your account to make it easy to drag-and-drop the files. To do this, open a terminal Window and type:
+You have been provided with a dataset that consists of the sequences of a gene for a collection of diverse *Mycobacteria* spp. isolates spanning the known diversity of the genus. You can find these sequences in https://github.com/WCSCourses/MolAppAfrica_2023/tree/main/course_data/bioinformatics/phylogenetics. For the workshop we will be running this practical using the Linux virtual machines - the data have already been installed on these, but you will need to copy them into your account to make it easy to drag-and-drop the files. To do this, open a terminal window and type:
 
 ```
 mkdir Desktop/phylogenetics
 cp /usr/local/share/MACMA/bioinformatics/*.fas Desktop/phylogenetics
 ```
 
-You should now see a new folder on your desktop called 'phylogenetics' that contains two files. You will be able to drag-and-drop from here into the MEGA window.
+You should now see a new folder on your desktop called 'phylogenetics' that contains two files. You will be able to drag-and-drop from here into the MEGA window later.
 
 ![](images/linux_phylo.jpg)
 
-We will be looking at the *rplB* gene that encodes one of the proteins that make up the ribosome, the essential protein factory of the cell, and is therefore relatively conserved within a species.
+We will be looking at the *rplB* gene that encodes one of the proteins that make up the ribosome, the essential protein factory of the cell. Some ribosomal protein genes are involved in antibiotic resistance within *Mycobacteria*, and may therefore be under diversifying selection, but this gene is not. With its essential role we should, therefore, expect it to be relatively conserved within a species, making it a good candidate for phylogenetic analysis.
 
 ### Aligning and formatting data
 The sequences have been provided in FASTA format. This is the simplest and probably most common format for sequence data. Each sequence within a FASTA file consists of a header line beginning with a ‘>’ character followed by the sequence identifier and optional comments separated by a ‘|’ character. The sequence itself appears on the following line(s) and continues until either the next header line (beginning with a ‘>’) or the end of the file, e.g.
