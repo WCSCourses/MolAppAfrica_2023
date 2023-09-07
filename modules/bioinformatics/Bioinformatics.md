@@ -539,3 +539,16 @@ Explore these data to answer the following questions:
 3.	Zhou Z, Alikhan NF, Sergeant MJ, Luhmann N, Vaz C, Francisco AP, et al. GrapeTree: Visualization of core genomic relationships among 100,000 bacterial pathogens. [Genome Research. 2018;28:1395-1404](https://pubmed.ncbi.nlm.nih.gov/30049790/).
 4.	Bratcher HB, Corton C, Jolley KA, Parkhill J, Maiden MC. A gene-by-gene population genomics platform: de novo assembly, annotation and genealogical analysis of 108 representative Neisseria meningitidis genomes. [BMC Genomics. 2014;15:1138](https://pubmed.ncbi.nlm.nih.gov/25523208/).
 
+### Further questions
+
+* What happened to invasive meningococcal disease after the introduction of PsA-TT (MenAfriVac®) vaccine?
+
+  * Was this uniform across the meningitis belt?
+ 
+* What would be your advice to policy makers
+
+  * Should vaccination programmes be continued, ended, or changed?
+
+* How would you support this advice with genomic data?  
+
+  * How can this information be presented to different audiences?
