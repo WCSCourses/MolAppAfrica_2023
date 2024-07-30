@@ -1,8 +1,9 @@
-<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
-
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
 # Molecular Approaches to Clinical Microbiology in Africa
+## 2–8 September 2023, Kenya Medical Research Institute (KEMRI)
 
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/molecular-approaches-to-clinical-microbiology-in-africa-20230902/) <br /> 
 
 ## Course overview
 
@@ -40,5 +41,15 @@ Any reuse of the course materials, data or code is encouraged with due acknowled
 - [Susan Kavai](https://www.kemri.go.ke/cmr-staff-profiles/#1648026803339-009e565e-07a8), Kenya Medical Research Institute
 
 ******
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+
+## Citing and Re-using Course Material
+
+The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
+
+## Interested in attending a course?
+
+Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+
+---
+
+For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
